@@ -1,2 +1,2 @@
 # Inventory-management-System
-To see your Product Information
+with the help of this project any company owner will get details about his inventory
